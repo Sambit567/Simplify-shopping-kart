@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'BioRhyme', serif;
+}
+
+.top-bar {
+  
+  background-color: rgba(58, 147, 219, 0.9);
+  color: rgba(255, 255, 255, 0.884);
+  box-shadow: 0 0 10px rgba(253, 4, 199, 0.6);
+  margin-bottom: 1rem;
+
+  ul {
+    background-color: transparent;
+  }
+}
+
+.text--red {
+  color: #ec4f99;
+}
+
+.text--bold {
+  font-weight: bold;
+}
+
+.button {
+  border-radius: 4px;
+  vertical-align: bottom;
+
+  &.success {
+    background-color: rgb(2, 255, 150);
+    padding: 1rem 3rem;
+    color: #fff;
+
+    &:hover {
+      color: rgb(212, 25, 25);
+    }
+  }
+}
+.footer-copyright {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(157, 255, 0);
+  color: white;
+  text-align: center;
+}
