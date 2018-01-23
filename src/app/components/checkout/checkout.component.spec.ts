@@ -125,7 +125,7 @@ describe("CheckoutComponent", () => {
       expect(productElements[0].querySelector(".js-product-name").textContent).toEqual(PRODUCT_1.name);
       expect(productElements[0].querySelector(".js-product-desc").textContent).toContain(PRODUCT_1.description);
       expect(productElements[0].querySelector(".js-product-costs").textContent)
-        .toContain(`${cartItem.quantity} x £${PRODUCT_1.price}`);
+        .toContain(`${cartItem.quantity} x ₹${PRODUCT_1.price}`);
       expect(productElements[0].querySelector(".js-product-total").textContent)
         .toContain(PRODUCT_1.price * cartItem.quantity);
     })));

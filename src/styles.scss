@@ -27,7 +27,7 @@ p {
 }
 
 .button {
-  border-radius: 4px;
+  border-radius: 2px;
   vertical-align: bottom;
 
   &.success {
@@ -36,7 +36,7 @@ p {
     color: #fff;
 
     &:hover {
-      color: rgb(212, 25, 25);
+      color: rgb(233, 6, 184);
     }
   }
 }

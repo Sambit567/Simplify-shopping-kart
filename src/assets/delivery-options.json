@@ -2,7 +2,7 @@
   {
     "id": "f488db46-9380-45e2-b15e-4ace7bdb7c89",
     "name": "Drone",
-    "description": "Get your package within an hour and have it flown in by a drone!",
+    "description": "Get your package within an hour and have it Express Delivery!",
     "price": 19.99
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": "c272fc43-28e4-4ffd-ae61-0cfdec565f6f",
     "name": "Pick-up",
-    "description": "Pick it up tomorrow from you local post office",
+    "description": "Pick it up tomorrow from you local office",
     "price": 0
   }
 ]

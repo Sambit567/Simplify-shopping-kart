@@ -1,6 +1,6 @@
 # Angular (4) - Simplify Shopping Kart
 
-2018 Copyight @ Sambit Kumar Padhys 
+2018 Copyight @ Sambit Kumar Padhy 
  
 
 See it in action https://github.com/Sambit567/Simplify-shopping-kart.git

@@ -68,13 +68,13 @@ describe("ShoppingCartComponent", () => {
       const fixture = TestBed.createComponent(ShoppingCartComponent);
       fixture.detectChanges();
       const compiled = fixture.debugElement.nativeElement;
-      expect(compiled.querySelector(".js-cart-total").textContent).toContain("£0.00");
+      expect(compiled.querySelector(".js-cart-total").textContent).toContain("₹0.00");
 
       const newCart = new ShoppingCart();
       newCart.grossTotal = 1.5;
       service.dispatchCart(newCart);
       fixture.detectChanges();
-      expect(compiled.querySelector(".js-cart-total").textContent).toContain("£1.50");
+      expect(compiled.querySelector(".js-cart-total").textContent).toContain("₹1.50");
     })));
 
   it("should empty the cart when empty shopping cart button pressed",
