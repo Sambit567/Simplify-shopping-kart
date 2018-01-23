@@ -1,9 +1,9 @@
-# Angular (4) - Shopping Basket Example
+# Angular (4) - Simplify Shopping Kart
 
+2018 Copyight @ Sambit Kumar Padhys 
+ 
 
-[![Build Status](https://travis-ci.org/jonsamwell/angular-simple-shopping-cart.svg?branch=master)](https://travis-ci.org/jonsamwell/angular-simple-shopping-cart)  
-
-See it in action https://jonsamwell.github.io/angular-simple-shopping-cart/
+See it in action https://github.com/Sambit567/Simplify-shopping-kart.git
 
 # Architectural Summary
 
