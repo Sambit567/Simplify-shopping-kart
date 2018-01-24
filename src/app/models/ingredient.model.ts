@@ -1,8 +1,8 @@
-export class Ingredient {
+export class Highlights {
   public name: string;
   public percentage: number;
 
-  public updateFrom(src: Ingredient): void {
+  public updateFrom(src: Highlights): void {
     this.name = src.name;
     this.percentage = src.percentage;
   }

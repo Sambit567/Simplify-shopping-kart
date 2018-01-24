@@ -1,117 +1,161 @@
 [
   {
-    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
-    "price": 3.50,
-    "name": "Greens",
-    "description": "Looking for simple, clean and green? Four of the most nutrient dense leafy greens create the base in our low-sugar Greens 1.",
-    "ingredients": [
+    "id": "5947110_sd",
+    "price": 34596,
+    "name": "Sony LED Television",
+    "description": "2 x 5 W Speaker Output Optimal sound ,1366 x 768 HD Ready - Great picture quality ,100 Hz : Blur free picture, Smoother movements in videos, 2 x HDMI : For set top box and consoles,1 x USB : Get content from USB drives.",
+    "Highlights": [
       {
-        "name": "cucumber",
-        "percentage": 50
+        "name": "Warrenty",
+        "percentage": 100
       },
       {
-        "name": "celery",
-        "percentage": 20
+        "name": "Picture clarity",
+        "percentage": 100
       },
       {
-        "name": "apple",
-        "percentage": 20
-      },
-      {
-        "name": "lemon",
-        "percentage": 10
+        "name": "Sound",
+        "percentage": 80
       }
     ]
   },
   {
-    "id": "bdcbe438-ac85-4acf-8949-5627fd5b57df",
-    "price": 2.75,
-    "name": "Citrus",
-    "description": "This enzyme rich juice is filled with phytonutrients and bromelin which helps to reduce inflammation. Drink it before a meal to get digestive juices flowing.",
-    "ingredients": [
+    "id": "metal-pendrive-nu230",
+    "price": 13995,
+    "name": "Hyundai Metal Pendrive",
+    "description": "Unidad Flash Hyundai 8GB USB 2.0 - 8 GB - USB 2.0 FLASH DRIVE METAL 8GB BRAVO LLAVERO USB 2.0 FLASH DRIVE METAL.",
+    "Highlights": [
       {
-        "name": "pineapple",
-        "percentage": 50
+        "name": "Metal",
+        "percentage": 100
       },
       {
-        "name": "apple",
-        "percentage": 20
-      },
-      {
-        "name": "mint",
-        "percentage": 20
-      },
-      {
-        "name": "lemon",
-        "percentage": 10
+        "name": "USB 2.0",
+        "percentage": 100
       }
     ]
   },
   {
-    "id": "58552daa-30f6-46fa-a808-f1a1d7667561",
-    "price": 3,
-    "name": "Roots",
-    "description": "Beets help your body to release stomach acid which aids digestion! Drink this juice when you want a snack that's both pretty and nutritious!",
-    "ingredients": [
+    "id": "47102366",
+    "price": 25,
+    "name": "Minute maid Grape Juice",
+    "description": "BLEND OF APPLE, GRAPE AND PEAR JUICES FROM CONCENTRATE WITH ADDED INGREDIENTS, Give your taste buds a dose with exhilarating grape flavor that tastes like it's straight off the vine.",
+    "Highlights": [
       {
-        "name": "apple",
-        "percentage": 50
+        "name": "Natural Flavour",
+        "percentage": 0.5
       },
       {
-        "name": "beetroot",
-        "percentage": 20
-      },
-      {
-        "name": "ginger",
-        "percentage": 20
-      },
-      {
-        "name": "lemon",
-        "percentage": 10
-      }
-    ]
-  },
-  {
-    "id": "d4666802-fd84-476f-9eea-c8dd29cfb633",
-    "price": 1.99,
-    "name": "Orange",
-    "description": "Orange juice with a twist to boost you health!",
-    "ingredients": [
-      {
-        "name": "orange",
-        "percentage": 50
-      },
-      {
-        "name": "lemon",
-        "percentage": 20
-      },
-      {
-        "name": "apple",
-        "percentage": 20
-      },
-      {
-        "name": "tumeric",
-        "percentage": 10
-      }
-    ]
-  },
-  {
-    "id": "7ef3b9dd-5a95-4415-af37-6871d6ff0262",
-    "price": 2.50,
-    "name": "Coconut",
-    "description": "Cinnamon lovers - this is your blend! Two nutritional powerhouses combine in a delicious, satiating elixir. Both cinnamon and coconut have been shown to reduce blood sugar. Raw coconut meat is a great source of medium chain fatty acids, which can lower bad cholesterol. Coconut also contains significant levels of fiber and manganese, a mineral that helps you metabolize fat and protein.",
-    "ingredients": [
-      {
-        "name": "Coconut",
+        "name": "Grape",
         "percentage": 70
       },
       {
-        "name": "Cinnamon",
+        "name": "Apple",
         "percentage": 20
       },
       {
-        "name": "water",
-        "percentage": 10
+        "name": "pear juice",
+        "percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "product-image-163664057_grande",
+    "price": 799,
+    "name": "Shirt",
+    "description": "Regular Fit,Cotton Blend,Differ",
+    "Highlights": [
+      {
+        "name": "Cotton Blend",
+        "percentage": 100
+      },
+      {
+        "name": "Ideal for men",
+        "percentage": 100
+      },
+      {
+        "name": "Full Slave",
+        "percentage": 100
+      }
+    ]
+  },
+  {
+    "id": "MRF-Genius-Test-Virat-s-SDL478826432-1-389e3",
+    "price": 19091,
+    "name": "MRF Bats",
+    "description": "Carefully selected from premium quality English willow,Optimum balance with exceptional stroke,The handle is made from premium, imported sarawak cane,Comes with paded bat cover with adjustable strap",
+    "Highlights": [
+      {
+        "name": "Wood",
+        "percentage": 100
+      },
+      {
+        "name": "Warrenty",
+        "percentage": 100
+      },
+      {
+        "name": "Genuine",
+        "percentage": 100
+      }
+    ]
+  },
+  {
+    "id": "61EJ3xAjXdL._UY445_",
+    "price": 899,
+    "name": "Formal Pants",
+    "description": "2 Welt pockets at the back & 2 slant pockets in front and Fine Count Chinos Pleated Trouser.",
+    "Highlights": [
+      {
+        "name": "Cotton",
+        "percentage": 100
+      },
+      {
+        "name": "Solid fabric",
+        "percentage": 80
+      },
+      {
+        "name": "Comfortable for Men",
+        "percentage": 100
+      }
+    ]
+  },
+  {
+    "id": "women-s-glamour-sweetheart-sequin-mermaid-long-prom-dress",
+    "price": 6493,
+    "name": "womens Glamour sweetheart sequin mermaid long promdress",
+    "description": "The prom dress is featuring sweetheart neckline, sequin decoration, mermaid style and long length. It suits for special occasion like wedding party, holiday party, ceremony, birthday party, pageant etc.",
+    "Highlights": [
+      {
+        "name": "Fiber",
+        "percentage": 50
+      },
+      {
+        "name": "Warrenty Type",
+        "percentage": 100
+      },
+      {
+        "name": "Comfortable for women",
+        "percentage": 100
+      }
+    ]
+  },
+  {
+    "id": "adidasoriginalscampus._CB1512587610_",
+    "price": 3599,
+    "name": "Adidas Original Campus Shoe",
+    "description": "shoes are wet after cleaning, let them air-dry before your proceed with the next step; dry shoes in room temperature only and never expose them to the sun, heat from the sun will cause the leather to shrink, wrinkle, harden, dry, and crack.",
+    "Highlights": [
+      {
+        "name": "Leather",
+        "percentage": 90
+      },
+      {
+        "name": "Casual",
+        "percentage": 100
+      },
+      {
+        "name": "Warranty Type",
+        "percentage": 100
       }
     ]
   }

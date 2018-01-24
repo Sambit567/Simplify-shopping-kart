@@ -1,21 +1,21 @@
 [
   {
     "id": "f488db46-9380-45e2-b15e-4ace7bdb7c89",
-    "name": "Drone",
+    "name": "Super Express",
     "description": "Get your package within an hour and have it Express Delivery!",
-    "price": 19.99
+    "price": 100
   },
   {
     "id": "c7f6535c-c56b-4e57-94dc-0e95b936b00b",
     "name": "Express",
     "description": "The quickest of the normal delivery service",
-    "price": 9.99
+    "price": 60
   },
   {
     "id": "caa93bc4-d69a-4788-aff6-4a6fb538ace8",
     "name": "Standard",
     "description": "Standard shipping can take up to 4 days",
-    "price": 5.99
+    "price": 27
   },
   {
     "id": "c272fc43-28e4-4ffd-ae61-0cfdec565f6f",
